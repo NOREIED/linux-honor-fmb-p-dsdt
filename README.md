@@ -119,7 +119,7 @@ Name (_PR0, Package(0x01)
 now, your file is seemd like this
 
 ```
-                CreateDWordField (SBFB, 0x0C, SPED)
+                CreateDWordField (SBFB, \_SB.PC00.I2C2.TPL1._Y71._SPE, SPED)
                 CreateWordField (SBFG, 0x17, INT1)
                 CreateDWordField (SBFI, \_SB.PC00.I2C2.TPL1._Y72._INT, INT2)
                 Name (_PR0, Package(0x01)
