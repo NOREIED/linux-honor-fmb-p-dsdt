@@ -5,10 +5,13 @@ fix fmb-p on linux issues
 bios version: 1.13
 
 OS: fedora 44 (kernel 6.19)
+
+chinese version
+
 ##
 on the first, my english is bad,sorry... :(
 
-i don't have global version machine,so i can't fix and test global version. you can read this article and fix by yourself.
+i try to fix global version,but i don't have global version device. so i can't test this patch work on global version
 
 even the touchscreen is fixed by dsdt,but you still need to block a broken keyboard interface
 
