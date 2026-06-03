@@ -6,7 +6,7 @@ bios version: 1.13
 
 OS: fedora 44 (kernel 6.19)
 ##
-on the first, my english is bad,sorry...
+on the first, my english is bad,sorry... :(
 
 i don't have global version machine,so i can't fix and test global version. you can read this article and fix by yourself.
 
