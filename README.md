@@ -103,7 +103,7 @@ now, your file is seemd like this
 
 after this,search`FTSC1000`
 
-turn up and find this line `CreateDWordField (SBFI, 0x05, INT2)`
+turn up and find this line `CreateDWordField (SBFI, \_SB.PC00.I2C2.TPL1._Y72._INT, INT2)`
 
 probably around line 85382
 
